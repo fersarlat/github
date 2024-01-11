@@ -24,4 +24,4 @@ Hello! I'm Luisa, a passionate computer science student specializing in software
 ---
 [![](https://visitcount.itsvg.in/api?id=fersarlat&icon=5&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
